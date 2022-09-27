@@ -1,0 +1,12 @@
+#caja1, #caja2{
+    width: 250px;
+    height: 250px;
+    background-color: rgba($color: #3d3d3d, $alpha: 0.6);
+    border: 5px solid red;
+    margin: 15px;
+
+}
+
+ul li:first-child{
+    color: purple;
+}
