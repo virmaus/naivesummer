@@ -1,4 +1,15 @@
 body{
-    background-repeat: no-repeat;
-    background-size: 100%;
+    background: url("./img/pattern.png");
+}
+
+.wrap{
+    width: 1200px;
+    margin: 0px auto;
+}
+
+/*cabecera*/
+
+#header{
+    width:100%;
+    font-family: "BebasNeue";
 }
